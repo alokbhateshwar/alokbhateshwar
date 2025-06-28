@@ -36,6 +36,12 @@ Hey there! 👋 I'm **Alok Bhateshwar** — a passionate and curious **Data Anal
 
 ---
 
+## 📇 ORCID iD:
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2316--9695-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2316-9695)
+
+---
+
 ## 🌐 Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alokbhateshwar)
